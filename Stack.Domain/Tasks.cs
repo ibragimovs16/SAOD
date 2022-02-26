@@ -2,6 +2,8 @@
 
 public static class Tasks
 {
+    // Валидация скобочной последовательности
+
     public static bool CheckBracketsMethod(string str)
     {
         if (str.Length == 0) return true;
