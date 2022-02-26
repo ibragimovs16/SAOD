@@ -9,7 +9,6 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Stack.Domain\Stack.Domain.csproj" />
-      <ProjectReference Include="..\Tasks\Tasks.csproj" />
     </ItemGroup>
 
 </Project>
